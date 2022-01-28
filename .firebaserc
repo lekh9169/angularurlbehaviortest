@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularurlbehavior": {
+      "hosting": {
+        "test-iis-app": [
+          "checkangularurl"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularurlbehavior"
+  }
+}
